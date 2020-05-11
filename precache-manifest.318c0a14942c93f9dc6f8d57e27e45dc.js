@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92b062b7ab8c9c7a6dcb861afb089350",
+    "revision": "64d79028d15508a73bb7fa8c6cd33dbb",
     "url": "/Star-Match_React/index.html"
   },
   {
