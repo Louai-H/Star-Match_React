@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Star-Match_React/static/css/main.55fa3c39.chunk.css",
+    "main.js": "/Star-Match_React/static/js/main.da58dabb.chunk.js",
+    "main.js.map": "/Star-Match_React/static/js/main.da58dabb.chunk.js.map",
+    "runtime-main.js": "/Star-Match_React/static/js/runtime-main.fea9c0a0.js",
+    "runtime-main.js.map": "/Star-Match_React/static/js/runtime-main.fea9c0a0.js.map",
+    "static/js/2.53848e47.chunk.js": "/Star-Match_React/static/js/2.53848e47.chunk.js",
+    "static/js/2.53848e47.chunk.js.map": "/Star-Match_React/static/js/2.53848e47.chunk.js.map",
+    "index.html": "/Star-Match_React/index.html",
+    "precache-manifest.dddb8b06aefc245bf0bf33760f9d4412.js": "/Star-Match_React/precache-manifest.dddb8b06aefc245bf0bf33760f9d4412.js",
+    "service-worker.js": "/Star-Match_React/service-worker.js",
+    "static/css/main.55fa3c39.chunk.css.map": "/Star-Match_React/static/css/main.55fa3c39.chunk.css.map",
+    "static/js/2.53848e47.chunk.js.LICENSE.txt": "/Star-Match_React/static/js/2.53848e47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fea9c0a0.js",
+    "static/js/2.53848e47.chunk.js",
+    "static/css/main.55fa3c39.chunk.css",
+    "static/js/main.da58dabb.chunk.js"
+  ]
+}
